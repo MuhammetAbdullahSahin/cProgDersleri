@@ -1,0 +1,3 @@
+suan dosya 1 okunuyor
+deneme
+satir 123
